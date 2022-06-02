@@ -1,5 +1,5 @@
 # Amazonrecommendationsystem
-* Context 
+## Context 
 
 E-commerce websites like Amazon, Flipkart uses different recommendation models to provide personalized suggestions to different users. For example, one of the recommendation models that Amazon uses is item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real-time.
 
