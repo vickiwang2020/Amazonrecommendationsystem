@@ -9,10 +9,10 @@ Build a recommendation system to recommend products to customers based on their 
 # Dataset
 * The Amazon dataset contains the following attributes:
 
-  - userId: Every user identified with a unique id
-  - productId: Every product identified with a unique id
-  - Rating: The rating of the corresponding product by the corresponding user
-  - timestamp: Time of the rating. We will not use this column to solve the current problem
+  - `userId`: Every user identified with a unique id
+  - `productId`: Every product identified with a unique id
+  - `Rating`: The rating of the corresponding product by the corresponding user
+  - `timestamp`: Time of the rating. We will not use this column to solve the current problem
 
 
 Note: I'm using google colab to proceed this data. Hence some parts are adaptable to your console or platform, please change accordingly,
